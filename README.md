@@ -17,10 +17,12 @@ This spreadsheet will help you manage your outpost production rates to avoid two
 3. **Advice**: Using an in-game naming convention for your outposts and identifying them by resource production is super helpful here																
 																
 4. **Resource List**: Ensure the resources you need are listed on the "**Resource List**" tab. Add in whatever is missing.
-     - If values for standard/commercial/industrial are not in the list, create an outpost and test it out. Be mindful of the random bonus from Special Projects 4. Delete and rebuild if necessary
+     - If values for standard/commercial/industrial are not in the list, create an outpost and test it out.
+     - Be mindful of the random bonus from Special Projects 4. Delete and rebuild if necessary
 																
 5. **Locations**: Enter details about your outposts on the "**Locations**" tab
      - Make sure you maintain the 100% scanned indicator. The 10% shift can blow up your whole operation
+     - Add your bots to account for their bonuses
 																
 6. **Target Rates**: Add the names of the farms you want to track in this spreadsheet
      - Add your farm to the list and if this is your intial creation, set the target rate to 1 for now
