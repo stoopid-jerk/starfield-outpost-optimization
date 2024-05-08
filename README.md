@@ -30,10 +30,9 @@ This spreadsheet will help you manage your outpost production rates to avoid two
 7. **Production Rates**: Now it is time to use the "**Farm Production Rates**" tab.
      - This tab is the spot you will use to see if your outpost production rate exceeds cargo links. The tab assumes one resource per link per outpost.
      - Add your Outposts and the Resources that outpost is PRODUCING. If you are harvesting aluminum and iron and use a builder to convert those resources into adaptive frames to export through a cargo link, you should list ALL THREE in "**Farm Production Rates**"
-     - Add the resources associated with those outposts
      - Make sure you update the Constellation and Outpost Management 4 bonuses to reflect your character's situation
      - Update the number of Engineer Bots and put in details on the Extractors and/or Builders you are using for the resource
-     - Note that builders are always put into the "**Standard**" column
+     - Note that fabricators are always put into the "**Standard**" column
      - Now you should have information about where your posts are right now
          - Rows highlighted in red indicate where your production exceeds the rate the cargo links can move the product
          - Rows highlighted in yellow are where builders overproduce. Builders are generally mediated by their underlying resources, but it is still a smart idea to adjust them appropriately
