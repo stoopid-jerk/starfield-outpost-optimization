@@ -47,3 +47,13 @@ This spreadsheet will help you manage your outpost production rates to avoid two
      - Take the lowest value in the "**Unit Rate**" column and use that for the "**Rate per Min**" value in the **Target Rates** tab (optionally, you may recognize that the lowest value is safe to increase. If that is the case, update the "**Target Rates**" tab and then re-evaluate this tab for the new bottleneck
 																
 9. **General Flow**: Use the "**Target Rates**" tab to maximize your outpost production without overloading your cargo links. Check the "**Farm**" tab for the lowest "**Unit Rate**" and put that value into the row corresponding with your farm in the "**Target Rates**" tab. Go back to the "**Farm**" tab to check the how optimize each resource is. Adjust your "**Target Rates**" tab to get everything as close to 100% as possible. Rinse and repeat. Being a little under is better than a little over because a 101% optimization means your resource will eventually jam something up since it is overproducing (albeit, slowly)																
+
+## Advice
+- Extractors and Cargo Links (not sure about Greenhouses and Builders) will bug out if product is not moving through the chain. This whole spreadsheet is designed to keep all components of a farm as in balance as possible.
+- Be very mindful of Outpost Management 4, Constellation Guide, 100% scanned planets, and Special Project 4 bonuses. They can throw off your entire farm.
+- Sleeping / Waiting allows extractors to run but not cargo ships so sleeping/waiting will break your farm eventually
+- Considering the above - skip sleeping for a little extra XP
+- Extractors are NOT variable based on how much contact with the resource they have
+- Extractors, Greenhouses, and Builders are variable based on the resource (it is NOT universally 2x, 1.25x, 1x)
+- Spreadsheet assumes 1 of 6 cargo links is running all the He3 needed for the other 5 links
+- Helium 3 operating costs are kinda jammed into tool. You'll figure it out.
