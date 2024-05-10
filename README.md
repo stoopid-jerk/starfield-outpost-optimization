@@ -49,7 +49,7 @@ This spreadsheet will help you manage your outpost production rates to avoid two
          - Rows highlighted in yellow are where fabricators overproduce. Fabricators are generally mediated by their underlying resources, but it is still a smart idea to adjust them appropriately
 																
 7. **Farm**: Now it is time to update the Farm tab by adding your details to it
-     - There are seven "**Source**" columns to represent the ways an outpost can acquire the resource (harvest it locally or receive it from up to 6 cargo links)
+     - There are seven "**Source**" columns to represent the ways an outpost can aggregate a resource from multiple sources (harvest it locally or receive it from up to 6 cargo links)
      - Select your resource and the farm it is a part of (**Target Rates** tab)
      - Add the number you need for the farm (e.g., 1 Supercooled Magnet needs 1 Isocentered Magnet, 1 Isotopic Coolant, and 3 Neodymium)
      - You can have multiple farms at your outpost (e.g., Ni, Co, Cu, and Be to one outpost would allow you to xp farm Tau Grade Rheostat and Isocentered Magnets)
