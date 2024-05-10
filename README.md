@@ -15,14 +15,15 @@ This spreadsheet will help you manage your outpost production rates to avoid two
      - Red cells: auto-populated, but important information you should be paying attention to
 														
 2. **Advice**:
-   -Using an in-game naming convention for your outposts and identifying them by resource production is super helpful here
+   - Using an in-game naming convention for your outposts and identifying them by resource production is super helpful here
    - Extractors and Cargo Links (not sure about Greenhouses and Builders) will bug out if product is not moving through the chain. This whole spreadsheet is designed to keep all components of a farm as in balance as possible.
-   - Be very mindful of Outpost Management 4, Constellation Guide, 100% scanned planets, and Special Project 4 bonuses. They can throw off your entire farm.
+   - Cargo Links are set to 300 kg universally due to the fact that Cargo Link Outbound boxes can only unload that much per trip
    - Sleeping / Waiting allows extractors to run but not cargo ships so sleeping/waiting will break your farm eventually
-   - Considering the above - skip sleeping for a little extra XP
+   - Be very mindful of Outpost Management 4, Constellation Guide, 100% scanned planets, and Special Project 4 bonuses. They can throw off your entire farm.
+   - Considering the above - skip sleeping for a little extra XP, not wasting time on restarting your fram is MUCH more valuable
    - Extractors are NOT variable based on how much contact with the resource they have
    - Extractors, Greenhouses, and Builders are variable based on the resource (it is NOT universally 2x, 1.25x, 1x)
-   - Spreadsheet assumes 1 of 6 cargo links is running all the He3 needed for the other 5 links
+   - Spreadsheet assumes 1 of the 3-6 cargo links is running all the He3 needed for the other Outpost links
    - Helium 3 operating costs are kinda jammed into tool. You'll figure it out.																
   
 3.  **Resource List**: Ensure the resources you need are listed on the "**Resource List**" tab. Add in whatever is missing.
